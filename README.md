@@ -262,7 +262,7 @@ Risk thresholds used in the app:
 
 ## 👩‍💻 Author
 
-**Aishwarya J**
+**Aishwarya-J05**
 - GitHub: [@Aishwarya-J05](https://github.com/Aishwarya-J05)
 
 ---
