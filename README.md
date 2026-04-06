@@ -101,8 +101,6 @@ Predicts a continuous burnout score from 0 to 10.
 
 | Model | MAE | MSE | R² Score |
 |-------|-----|-----|----------|
-| Linear Regression | — | — | baseline |
-| KNN Regressor | — | — | — |
 | **Random Forest (Tuned)** | **best** | **best** | **best** ✅ |
 
 **Best Model: Random Forest Regressor** (selected via GridSearchCV with 5-fold cross-validation)
@@ -120,10 +118,6 @@ Predicts Low / Medium / High burnout category.
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |-------|----------|-----------|--------|----------|
-| Logistic Regression | — | — | — | — |
-| Naive Bayes | — | — | — | — |
-| Decision Tree | — | — | — | — |
-| KNN Classifier | — | — | — | — |
 | **SVM (RBF, Tuned)** | **best** | **best** | **best** | **best** ✅ |
 
 **Best Model: SVM with RBF kernel** (tuned via GridSearchCV Pipeline)
